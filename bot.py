@@ -11,7 +11,7 @@ SESSION_FILE = Path("session.json")
 
 WELCOME_MESSAGE = (
     "✨👑 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘵𝘦𝘤𝘩-𝘙𝘢𝘷𝘪 𝘉𝘰𝘵 𝘨𝘤 👑✨  "
-    "ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @me.salaar"
+    "ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @SILENT.STROMX"
 )
 
 last_active = {}
