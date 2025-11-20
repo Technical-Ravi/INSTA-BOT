@@ -6,7 +6,7 @@ from instagrapi import Client
 from instagrapi.exceptions import ClientLoginRequired, ClientError, ChallengeRequired
 
 USERNAME = "zebra.xx1"
-PASSWORD = "BR0K3N#"
+PASSWORD = "BR0K3NX"
 SESSION_FILE = Path("session.json")
 
 WELCOME_MESSAGE = (
