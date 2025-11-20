@@ -5,12 +5,12 @@ from pathlib import Path
 from instagrapi import Client
 from instagrapi.exceptions import ClientLoginRequired, ClientError, ChallengeRequired
 
-USERNAME = "euo.j8"
-PASSWORD = "Tiktok@123"
+USERNAME = "zebra.xx1"
+PASSWORD = "BR0K3N"
 SESSION_FILE = Path("session.json")
 
 WELCOME_MESSAGE = (
-    "✨👑 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑪𝒉𝒂𝒓𝒔𝒊 𝑴𝒂𝒍𝒂𝒏𝒈 𝑮𝑪 👑✨  "
+    "✨👑 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘵𝘦𝘤𝘩-𝘙𝘢𝘷𝘪 𝘉𝘰𝘵 𝘨𝘤 👑✨  "
     "ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @me.salaar"
 )
 
