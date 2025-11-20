@@ -1,0 +1,683 @@
+2025-09-12 23:22:22,154 [INFO] https://i.instagram.com/api/v1/launcher/sync/
+2025-09-12 23:22:22,657 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:22:23,104 [INFO] https://i.instagram.com/api/v1/accounts/login/
+2025-09-12 23:22:27,397 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:22:28,399 [INFO] https://i.instagram.com/api/v1/feed/reels_tray/
+2025-09-12 23:22:29,023 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:22:30,026 [INFO] https://i.instagram.com/api/v1/feed/timeline/
+2025-09-12 23:22:33,581 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:22:33,586 [INFO] New login successful and session saved.
+2025-09-12 23:22:33,586 [INFO] Bot started. Listening for messages...
+2025-09-12 23:22:34,587 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:22:35,086 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:23:06,088 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:23:06,803 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:23:37,804 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:23:38,193 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:24:09,204 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:24:09,671 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:24:10,690 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:24:11,102 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:24:11,102 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:24:42,104 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:24:42,539 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:24:43,540 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:24:43,952 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:24:43,952 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:25:14,953 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:25:15,367 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:25:16,370 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:25:16,773 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:25:16,773 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:03,323 [INFO] Logged in with session file.
+2025-09-12 23:28:03,323 [INFO] Bot started. Listening for messages...
+2025-09-12 23:28:04,324 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:04,771 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:07,773 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:08,135 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:11,138 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:11,732 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:14,734 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:15,120 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:16,122 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:16,535 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:16,537 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:19,538 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:19,943 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:20,945 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:21,351 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:21,352 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:24,353 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:24,753 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:25,756 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:26,238 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:26,240 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:29,242 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:29,659 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:30,661 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:31,064 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:31,065 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:34,067 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:34,463 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:35,466 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:35,866 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:35,867 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:38,870 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:39,284 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:40,286 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:40,701 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:40,703 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:43,704 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:44,100 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:45,104 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:45,514 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:45,515 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:48,517 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:48,926 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:49,927 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:50,480 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:50,481 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:53,482 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:53,892 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:54,894 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:28:55,294 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:55,295 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:28:58,297 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:28:58,714 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:28:59,715 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:00,123 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:00,124 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:03,125 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:03,520 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:04,523 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:04,943 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:04,943 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:07,945 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:08,335 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:09,336 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:09,728 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:09,728 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:12,729 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:13,150 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:14,152 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:14,557 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:14,558 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:17,560 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:17,950 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:18,953 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:19,378 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:19,378 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:22,379 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:22,921 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:23,922 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:24,337 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:24,338 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:27,339 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:27,744 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:28,746 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:29,221 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:29,221 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:32,223 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:32,614 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:33,616 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:34,060 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:34,061 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:37,062 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:37,671 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:38,674 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:39,160 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:39,161 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:42,162 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:42,668 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:43,670 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:44,075 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:44,076 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:47,078 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:47,562 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:48,565 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:48,964 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:48,966 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:51,967 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:52,378 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:53,380 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:53,772 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:53,773 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:29:56,776 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:29:57,178 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:58,180 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:29:58,575 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:29:58,576 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:01,577 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:02,027 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:03,029 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:03,427 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:03,428 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:06,429 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:07,016 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:08,018 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:08,407 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:08,408 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:11,410 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:11,810 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:12,813 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:13,282 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:13,284 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:16,285 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:16,684 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:17,691 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:18,102 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:18,103 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:21,105 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:21,511 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:22,513 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:22,934 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:22,934 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:25,937 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:26,339 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:27,340 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:27,925 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:27,926 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:30,928 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:31,333 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:32,336 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:32,729 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:32,730 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:35,732 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:36,145 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:37,147 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:37,663 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:37,665 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:40,666 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:41,074 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:42,076 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:42,488 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:42,490 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:45,492 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:45,891 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:46,893 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:47,396 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:47,398 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:50,399 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:50,802 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:51,805 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:52,212 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:52,212 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:30:55,214 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:30:55,605 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:56,606 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:30:57,026 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:30:57,027 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:00,028 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:00,417 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:01,420 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:01,853 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:01,854 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:04,855 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:05,262 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:06,264 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:06,668 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:06,670 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:09,671 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:10,060 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:11,062 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:11,482 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:11,483 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:14,484 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:14,919 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:15,920 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:16,352 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:16,353 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:19,355 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:19,783 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:20,785 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:21,405 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:21,405 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:24,407 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:24,814 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:25,816 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:26,219 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:26,220 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:29,221 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:29,617 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:30,619 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:31,037 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:31,037 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:34,039 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:34,451 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:35,453 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:35,850 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:35,852 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:38,854 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:39,245 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:40,247 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:40,661 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:40,662 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:43,663 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:44,055 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:45,057 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:45,460 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:45,461 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:48,462 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:48,860 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:49,862 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:50,267 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:50,267 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:31:53,270 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:31:53,673 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:54,676 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:31:55,080 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:31:55,081 [ERROR] Error reacting in thread 340282366841710301244276152221431955393: 'Client' object has no attribute 'direct_message_reaction'
+2025-09-12 23:32:03,766 [INFO] Logged in with session file.
+2025-09-12 23:32:03,766 [INFO] Bot started. Listening for messages...
+2025-09-12 23:32:04,766 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:05,269 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:06,271 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:06,662 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:07,664 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:08,022 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:08,023 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:08,035 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:11,037 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:11,437 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:12,440 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:12,848 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:13,850 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:14,221 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:14,221 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:14,222 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:17,223 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:17,798 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:18,801 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:19,191 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:20,192 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:20,499 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:20,500 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:20,500 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:23,502 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:23,906 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:24,908 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:25,436 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:26,438 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:26,735 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:26,735 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:26,735 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:29,737 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:30,239 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:31,242 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:31,638 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:32,640 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:32,932 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:32,932 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:32,933 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:35,934 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:36,329 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:37,331 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:37,930 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:38,933 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:39,224 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:39,224 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:39,225 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:42,227 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:42,631 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:43,634 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:44,034 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:45,035 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:45,326 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:45,326 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:45,326 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:48,328 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:48,714 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:49,716 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:50,114 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:51,116 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:51,401 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:51,402 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:51,402 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:32:54,403 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:32:54,796 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:55,799 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:32:56,201 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:57,203 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:32:57,495 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:32:57,495 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:32:57,495 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:00,497 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:00,923 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:01,925 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:02,380 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:03,382 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:03,677 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:03,677 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:03,678 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:06,680 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:07,103 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:08,106 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:08,515 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:09,518 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:09,808 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:09,808 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:09,808 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:12,810 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:13,210 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:14,212 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:14,831 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:15,833 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:16,134 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:16,134 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:16,134 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:19,138 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:19,528 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:20,530 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:20,917 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:21,918 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:22,217 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:22,217 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:22,217 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:25,218 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:25,821 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:26,822 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:27,208 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:28,211 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:28,698 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:28,699 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:28,699 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:31,702 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:32,099 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:33,100 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:33,500 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:34,502 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:34,789 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:34,790 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:34,790 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:37,793 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:38,196 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:39,197 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:39,659 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:40,661 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:40,963 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:40,963 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:40,963 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:43,966 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:44,366 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:45,369 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:45,783 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:46,786 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:47,082 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:47,082 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:47,083 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:50,083 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:50,487 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:51,488 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:51,886 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:52,887 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:53,169 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:53,170 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:53,170 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:33:56,171 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:33:56,561 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:57,562 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:33:57,967 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:58,968 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:33:59,255 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:33:59,255 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:33:59,255 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:34:02,257 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:02,654 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:03,657 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:34:04,053 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:05,053 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:34:05,339 [INFO] euo.j13 [404] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:05,339 [WARNING] Status 404: Endpoint /v1/direct_v2/threads/broadcast/text/ does not exist
+2025-09-12 23:34:05,339 [ERROR] Error replying in thread 340282366841710301244276152221431955393: We're sorry, but something went wrong. Please try again.
+2025-09-12 23:34:08,341 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:08,730 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:20,126 [INFO] Logged in with session file.
+2025-09-12 23:34:20,126 [INFO] Bot started. Listening for messages...
+2025-09-12 23:34:21,127 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:21,643 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:22,646 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:34:23,052 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:24,055 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:34:24,735 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:24,735 [INFO] Replied with 😭 to user 56048924416 in thread 340282366841710301244276152221431955393
+2025-09-12 23:34:28,736 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:29,153 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:30,154 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:34:30,635 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:31,638 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:34:32,551 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:32,551 [INFO] Replied with 😭 to user 56048924416 in thread 340282366841710301244276152221431955393
+2025-09-12 23:34:36,567 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:36,927 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:39,929 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:40,286 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:43,287 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:43,648 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:46,651 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:47,005 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:50,007 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:50,354 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:53,355 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:53,712 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:34:56,714 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:34:57,313 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:00,316 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:00,683 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:03,691 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:04,088 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:07,090 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:07,443 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:10,446 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:10,805 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:13,807 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:14,163 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:17,166 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:17,524 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:20,526 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:20,942 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:21,944 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:35:22,363 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:23,366 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:35:23,921 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:23,922 [INFO] Replied with 😭 to user 56048924416 in thread 340282366841710301244276152221431955393
+2025-09-12 23:35:27,924 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:28,299 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:31,301 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:31,660 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:34,661 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:35,066 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:38,067 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:38,429 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:41,431 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:41,784 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:44,785 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:45,146 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:48,148 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:48,793 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:51,794 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:52,144 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:55,146 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:55,671 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:35:58,673 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:35:59,035 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:02,037 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:02,530 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:05,533 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:05,887 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:08,903 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:09,263 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:12,265 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:12,617 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:15,619 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:15,981 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:18,982 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:19,340 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:22,340 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:22,814 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:25,815 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:26,178 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:29,179 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:29,558 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:32,559 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:32,907 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:35,909 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:36,258 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:39,259 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:39,724 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:42,726 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:43,297 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:44,299 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:36:44,717 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:45,718 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:36:46,275 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:36:46,275 [INFO] Replied with 😭 to user 56048924416 in thread 340282366841710301244276152221431955393
+2025-09-12 23:36:50,278 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:36:50,635 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:10,566 [INFO] Logged in with session file.
+2025-09-12 23:37:10,567 [INFO] Bot started. Listening for messages...
+2025-09-12 23:37:11,567 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:12,642 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:15,646 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:16,608 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:17,609 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:37:18,026 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:19,027 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:37:19,572 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:19,573 [INFO] Replied with 😭 to user 56048924416 in thread 340282366841710301244276152221431955393
+2025-09-12 23:37:23,574 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:23,934 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:26,936 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:27,341 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:28,343 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/
+2025-09-12 23:37:28,809 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/threads/340282366841710301244276152221431955393/?visual_message_return_type=unseen&direction=older&seq_id=40065&limit=20 (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:29,813 [INFO] https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-09-12 23:37:30,371 [INFO] euo.j13 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:30,371 [INFO] Replied with 😭 to user 56048924416 in thread 340282366841710301244276152221431955393
+2025-09-12 23:37:34,373 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:34,826 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:37,827 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:38,229 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:41,230 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:41,594 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:44,597 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:44,953 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:47,954 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:48,331 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:51,333 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:51,690 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:54,693 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:55,050 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:37:58,051 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:37:58,419 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:01,420 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:01,775 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:04,777 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:05,423 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:08,425 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:08,789 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:11,791 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:12,168 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:15,169 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:15,529 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:18,531 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:18,884 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:21,886 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:22,239 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:25,242 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:25,603 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:28,605 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:28,958 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:31,959 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:32,323 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:35,325 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:35,686 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:38,688 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:39,068 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:42,070 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:42,429 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:45,430 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:45,801 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:48,803 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:49,176 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:52,178 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:52,537 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:55,538 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:55,912 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:38:58,914 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:38:59,274 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:02,276 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:02,650 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:05,652 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:06,016 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:09,018 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:09,388 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:12,390 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:12,751 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:15,752 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:16,125 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:19,127 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:19,498 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:22,500 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:22,867 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:25,869 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:26,239 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:29,240 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:29,594 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:32,596 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:32,951 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:35,953 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:36,353 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:39,355 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:39,714 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:42,716 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:43,119 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:46,120 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:46,528 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:49,531 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:49,891 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:52,893 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:53,258 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:56,259 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:39:56,640 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:39:59,642 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:00,008 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:03,009 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:03,372 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:06,373 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:06,739 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:09,741 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:10,106 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:13,108 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:13,469 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:16,470 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:16,828 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:19,830 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:20,194 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:23,196 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:23,559 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:26,561 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:26,922 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:29,924 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:30,288 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:33,290 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:33,657 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:36,659 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:37,034 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:40,035 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:40,398 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:43,400 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:43,772 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:46,773 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:47,140 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:50,142 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:50,504 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:53,506 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:53,881 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:40:56,883 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:40:57,244 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:41:00,246 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:41:00,609 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:41:03,610 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:41:03,974 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-09-12 23:41:06,975 [INFO] https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-09-12 23:41:07,338 [INFO] euo.j13 [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
